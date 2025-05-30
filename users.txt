@@ -1,0 +1,2 @@
+AccountNumber:1234567890, PIN:5555, Balance:100.0, Name:Zainab Taha
+AccountNumber:1111111111, PIN:1111, Balance:0.0, Name:Hashim Alkaf

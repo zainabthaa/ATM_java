@@ -1,0 +1,4 @@
+AccountNumber:1234567890, TransactionID:1.579010253E9, Amount:900.0, Type:Deposit
+AccountNumber:1234567890, TransactionID:-1.277876826E9, Amount:400.0, Type:Deposit
+AccountNumber:1234567890, TransactionID:-1.333516096E9, Amount:200.0, Type:Withdrawal
+AccountNumber:1234567890, TransactionID:1.893342425E9, Amount:100.0, Type:Deposit
