@@ -22,7 +22,7 @@ A simple Java-based banking system with a Swing GUI for admin and user managemen
 
 * Validate account numbers (must be exactly 10 digits)
 * Persistent user data stored in `users.txt` and locked accounts in `locked_accounts.txt`
-* Smooth GUI interactions with Swing
+* Smooth GUI interactions using Swing
 
 ---
 
@@ -48,21 +48,7 @@ A simple Java-based banking system with a Swing GUI for admin and user managemen
 ### 🔧 Requirements
 
 * JDK 8 or higher
-* Any Java IDE (Eclipse, IntelliJ, NetBeans) or command line
-
-### 🏃 How to run
-
-1. Compile the Java files:
-
-```bash
-javac *.java
-```
-
-2. Run the main application class (e.g., `BankingSystem`):
-
-```bash
-java BankingSystem
-```
+* Any Java IDE (VScode, Eclipse, NetBeans) or command line
 
 ---
 
@@ -72,6 +58,3 @@ java BankingSystem
 * Effat University
 * Java GUI Banking System Project
 
----
-
-If you want, I can prepare the README file for download or customize it further!
